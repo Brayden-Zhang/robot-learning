@@ -1,0 +1,29 @@
+gymnasium
+stable-baselines3
+torch
+torchvision
+torchaudio
+tensorboard
+matplotlib
+numpy
+pandas
+scipy
+pybullet
+# mujoco
+# mujoco-py
+# dm-control
+# robosuite
+# gym-robotics
+opencv-python
+imageio
+pyyaml
+tqdm
+pytest
+ipython
+jupyter
+moviepy
+gym
+pygame
+highway-env
+gym-pusht
+
